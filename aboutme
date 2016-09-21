@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Hong Man Hay About me</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="css/myStyle.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="wrapper">
+  <h1><img src="images/space.png" width="177" height="36" alt="" /></h1>
+  <ul id="nav">
+    <li class="b"><a href="http://www.hongmanhay.com/">Home</a></li>
+    <li class="a"><a href="http://www.hongmanhay.com/myWebpageSkills.html">About me</a></li>
+    <li class="d"><a href="http://www.hongmanhay.com/myWebpageExperience.html">Experience</a></li>
+    <li class="c"><a href="http://www.hongmanhay.com/myWebpageContact.html">Contact</a></li>
+  </ul>
+  <div id="body">
+    <div>
+      <div>
+        <div>
+          <div class="inner"> <h2>DENY</h2>
+			<div>
+			  <img src ="images/DENY_1.jpg" class="leftphoto">
+			</div>
+            <div class="righttext">
+			  <p>DENY is a local band, formed by four University students in 2014, and I am the drummer of DENY. We write our own songs and participate in different competitions and shows to gain experience. The photo on the left was taken during a performance in a secondary school. Sometimes we also go busking outside Lan Kwai Fong, so remember to say hi to me when you pass by there :p</p>
+            </div>
+          </div>
+		  <div class="inner">
+		    <div> 
+			  <img src ="images/DENY_2.jpg" class="rightphoto">
+			</div>
+		    <div class="lefttext">
+			  <p><br><br><br>We came second in the singing contest. Check out: <a href="https://www.youtube.com/watch?v=As6nUyAhgCg&feature=youtu.be">HERE</a> for the video!</p>
+                          <p>and Facebook page: <a href="https://www.facebook.com/denyhkband/?fref=ts">HERE</a></p>
+			</div>
+		  </div>
+		  
+		  <div id="dividerx"><img src="images/divider_cut.jpg" width="28" height="12" alt="" /></div>
+		  
+		  <div class="inner"> <h2>Refiner</h2>
+		    <div>
+			  <img src ="images/pakho_concert_3.jpg" class="leftphoto">
+			</div>
+			<div>
+			  <img src ="images/pakho_concert_1.jpg" class="righttext">
+			</div>
+		  </div>
+		  <div class="shortinner">
+			<p>Refiner is a non-profit percussion performing organization founded in 2007. It is our pleasure to have the chance to be the drummer in PakHo Chauâ€™s Colors of Life Concert.</p>
+		  </div>
+		  <div class="inner">
+		    <img src ="images/refiner_2.jpg" class="leftphoto"> 
+		    <div class="righttext">
+		    <p><br><br><br>Recording by TVB.</p>
+		    </div>
+	      </div>
+		  
+		  <div id="dividerx"><img src="images/divider_cut.jpg" width="28" height="12" alt="" /></div>
+		  
+		  <div class="inner"> <h2>Sport<h2>
+		    <div>
+		    <img src ="images/bballteam_1.jpg" class="leftphoto">
+			</div>
+			<div class="righttext">
+			  <p><br><br><br>School basketball team.</p>
+			</div>
+		  </div>
+		  <div class="inner">
+		    <div>
+			  <img src ="images/bballteam_2.jpg" class="rightphotolong">
+			</div>
+			<div>
+			<p><br><br><br>Inter-school basketball competition.</p>
+			</div>
+		  </div>
+			
+		  
+		  <div class="inner">
+			<div class="indent">
+            </div>
+		  </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>
